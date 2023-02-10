@@ -83,7 +83,7 @@
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yashsaini7060&&theme=xcode)](https://github.com/yashsaini7060)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsaini7060&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini7060&layout=compact&theme=tokyonight"
     alt="yashsaini7060" />
 </p>
 <p>
