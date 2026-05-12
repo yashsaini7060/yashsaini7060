@@ -1,94 +1,98 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<div align="center">
+  <a href="https://twitter.com/yash_1805"><img src="https://img.shields.io/twitter/follow/yash_1805?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yashsaini7060&label=Profile+Views&color=0891b2&style=for-the-badge" />
+</div>
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=yashsaini7060&label=Profile%20views&color=0e75b6&style=flat"
-    alt="yashsaini7060" /> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/yash_1805" target="blank"><img
-      src="https://img.shields.io/twitter/follow/yash_1805?logo=twitter&style=for-the-badge" alt="yash_1805" /></a> </p>
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<img align="right" alt="Coding" width="400"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 🚀 About Me
 
-- 🔭 I’m currently learning **Flutter, Angular.js.**
+```typescript
+const yash: Developer = {
+  location: "Bangalore, India 🇮🇳",
+  role: "Software Engineer @ Fibr AI",
+  currently: ["AI Agents", "LLM Integrations", "Full-Stack Products"],
+  stack: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
+  ai: ["OpenAI API", "Google ADK", "LiteLLM", "Langfuse"],
+  interests: ["Prompt Engineering", "Agentic Workflows", "System Design"],
+  funFact: "I once cut variant creation from hours to under 5 minutes 🚀",
+};
+```
 
-- 😄 My areas of interest are **Web development, App Development, Competitive programming, and DS algo.**
+<br clear="right"/>
 
-- 💬 Ask me about **C, C++, Java, Python,React.js, Express.js, Node.js, MongoDB, SQL.**
+---
 
-- 📄 Know about my experiences
-[https://drive.google.com/file/d/1sPMu3RZlshRwXxmhAd6JiucWvwiTWN7d/view?usp=sharing](https://drive.google.com/file/d/1sPMu3RZlshRwXxmhAd6JiucWvwiTWN7d/view?usp=sharing)
+## 💼 Experience
 
-<h3 align="left">Connect with me:</h3>
+**🏢 Fibr AI — Software Engineer** _(Jan 2025 – Present)_
 
-<p align="left">
-  <a href="mailto:yk7060533@gmail.com"><img align="center"
-      width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a>
-  <a href="https://twitter.com/yash_1805" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="yash_1805" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/yash7060" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="yash7060" height="30" width="40" /></a>
-  <a href="https://instagram.com/yash__saini_" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="yash__saini_" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/yk7060533" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="yk7060533" height="30" width="40" /></a>
-</p>
+- 🤖 Built **Genesis**, an AI agent (Google ADK + Temporal) that crawls, analyzes & regenerates optimized landing pages — now the default onboarding flow
+- ⚡ Shipped AI-generated landing page variants using LLMs, cutting creation time from **hours → under 5 mins**
+- 🧪 Built an **A/B testing engine** with real-time variant assignment, traffic splitting & conversion tracking
+- 🧱 Built an internal design system of **25+ accessible UI components**, reducing feature UI build time by ~30%
+- 🔧 Set up LLM infra with **LiteLLM** (multi-provider routing) + **Langfuse** (tracing, observability, cost monitoring)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs" width="40" height="40" /> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
- </p>
+**🏢 Physics Wallah (iNeuron) — Associate Full-Stack Developer** _(Apr 2023 – Jan 2025)_
 
-<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yashsaini7060&&theme=xcode)](https://github.com/yashsaini7060) -->
+- 🎓 Architected a Support Platform & LMS serving **80,000+ monthly visitors** and resolving **2000+ daily queries**
+- 🤖 Built an **AI-powered Doubts Ticketing System** with LLM-based classification, cutting manual triage by ~60%
+- 📊 Designed student & SME dashboards with React + Redux used by **50+ subject matter experts**
+- ⚡ Optimized backend & frontend reducing page load by **~40%** and API latency by **~50%**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini7060&layout=compact&theme=tokyonight"
-    alt="yashsaini7060" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsaini7060&show_icons=true&locale=en&theme=tokyonight" alt="yashsaini7060" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsaini7060&&theme=tokyonight" alt="yashsaini7060" />
-</p>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+**AI / LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-FF6F00?style=for-the-badge&logo=lightning&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=data:)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsaini7060&theme=tokyonight&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsaini7060&theme=tokyo-night&hide_border=true&radius=8" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="left">
+  <a href="mailto:yk18052000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yash7060" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yash_1805" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/yash__saini_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/yk7060533" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+  <a href="https://drive.google.com/file/d/1sPMu3RZlshRwXxmhAd6JiucWvwiTWN7d/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
